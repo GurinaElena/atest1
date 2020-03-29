@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/tfn0tikj3ymvh68d?svg=true)](https://ci.appveyor.com/project/GurinaElena/autotest1)
+[![Build status](https://ci.appveyor.com/api/projects/status/msya8vhdih2mss19?svg=true)](https://ci.appveyor.com/project/GurinaElena/atest1)
